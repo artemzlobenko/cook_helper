@@ -1,3 +1,6 @@
+Hosted on:
+http://kavoiwo.pythonanywhere.com/
+
 Cook Helper Django REST framework-React
 1. Description
 Our project is made for people, who enjoy cooking. We have provided recipe meals and functionality for adding user own meals and recipes. Enjoy!
